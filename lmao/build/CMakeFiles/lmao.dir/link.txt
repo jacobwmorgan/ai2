@@ -1,0 +1,1 @@
+/usr/bin/g++ -g -rdynamic CMakeFiles/lmao.dir/main.cpp.o -o lmao 

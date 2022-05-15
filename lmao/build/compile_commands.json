@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/jacob/Desktop/Uni/Ai-Assignment2/lmao/build",
+  "command": "/usr/bin/g++  -I/lmao/include -g -o CMakeFiles/lmao.dir/main.cpp.o -c /home/jacob/Desktop/Uni/Ai-Assignment2/lmao/main.cpp",
+  "file": "/home/jacob/Desktop/Uni/Ai-Assignment2/lmao/main.cpp"
+}
+]
