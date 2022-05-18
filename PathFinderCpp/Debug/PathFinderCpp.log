@@ -1,5 +1,7 @@
-﻿  botRandom.cpp
-  level.cpp
-  main.cpp
-  Generating Code...
-  PathFinderCpp.vcxproj -> C:\Dev\AI Workshops\PathFinderCpp\Debug\PathFinderCpp.exe
+﻿  dijkstra.cpp
+C:\Users\Computing\Documents\GitHub\ai2\PathFinderCpp\dijkstra.cpp(39,29): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Computing\Documents\GitHub\ai2\PathFinderCpp\dijkstra.cpp(63,31): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\Computing\Documents\GitHub\ai2\PathFinderCpp\dijkstra.cpp(137,21): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Computing\Documents\GitHub\ai2\PathFinderCpp\dijkstra.cpp(142,31): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Computing\Documents\GitHub\ai2\PathFinderCpp\dijkstra.cpp(166,31): warning C4305: '=': truncation from 'double' to 'float'
+  PathFinderCpp.vcxproj -> C:\Users\Computing\Documents\GitHub\ai2\PathFinderCpp\Debug\PathFinderCpp.exe
